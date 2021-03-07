@@ -1,5 +1,5 @@
 # 2D Topdown Shooter
-A basically working layout for a 2D top down shooter, shoot boxes & collect coins, shoot powerup blocks for power ups using Raylib for graphics
+A basically working layout for a 2D top down shooter, shoot boxes & collect coins, shoot powerup blocks to create a new power up - using Raylib for graphics library
 
 Left CTRL - Shoot<br />
 Left Alt - Increase speed<br />
